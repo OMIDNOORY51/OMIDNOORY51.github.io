@@ -1,0 +1,109 @@
+.nav1 {
+    display: flex;
+    list-style-type: none;
+    justify-content: center left;
+    height: 30px;
+    background-color: black;
+}
+
+.li1 {
+    margin-left: 20px;
+    line-height: 30px;
+}
+
+.a2 {
+    text-decoration: none;
+    color: white;
+}
+
+.ic3 {
+    margin-right: -15px;
+    color: white;
+}
+
+/* nav1 */
+.header {
+    background-color: white;
+    height: 76px;
+    width: 100%;
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+    height: 76px;
+}
+
+li {
+    margin-right: 30px;
+    line-height: 76px;
+}
+
+.a1 {
+    color: black;
+    text-decoration: none;
+}
+
+.ic2 {
+    font-size: 20px;
+    text-align: center;
+    line-height: 76px;
+    margin-right: -330px;
+}
+
+.ic1 {
+    font-size: 25px;
+    text-align: center;
+    line-height: 76px;
+    margin-right: -380px;
+
+}
+
+/* navigation */
+.cont1 {
+    height: 150px;
+    width: 100%;
+    font-size: 30px;
+    color: black;
+    text-align: center;
+    line-height: 150px;
+    border: 1px solid black;
+}
+
+.s1 {
+    text-decoration: underline 3px red;
+}
+
+/* box */
+.pic2 {
+    display: block;
+}
+
+/* footer */
+.boxfooter {
+    background-color: rgb(170, 170, 170);
+    width: 100%;
+    height: 500px;
+}
+
+.footer {
+    color: black;
+    font-size: 20px bold;
+}
+
+.lifooter {
+    color: rgb(100, 100, 100);
+    font-size: 12px;
+}
+
+.afooter {
+    font-size: 12px;
+    text-decoration: none;
+    color: rgb(100, 100, 100);
+}
+
+.picnic {
+    width: 100%;
+    height: 600px;
+}
